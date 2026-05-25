@@ -49,4 +49,4 @@ atualizaCronometro();
 setInterval(atualizaCronometrom,1000);
 }
 
-comecaCronometro();
+//comecaCronometro();
